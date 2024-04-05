@@ -7,15 +7,4 @@ int main()
 }
 rettretrete
 rtetearghdfgdf
-hreahrgthiorejhi
-j
-y
-jojkrfrstvc
-
-jryjrt
-jrjry
-jr
-tj
-rtjrt
-jrtjrrj
 
